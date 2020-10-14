@@ -1,0 +1,33 @@
+Now more and more computers, tablets, cars, mobile phones, smart home, sports equipment, audio and video equipment have Bluetooth function. Everywhere, pairing is more and more simple, security is also constantly improving,it become a communication technology that often used in life and work.
+
+
+How to make Bluetooth products meet the technical specifications and obtain the authorization of using Bluetooth SIG logo? That is simply to say, it is need to finish the Bluetooth BQB certification.
+ How to get Bluetooth BQB certification?
+
+(1)Become a member of Bluetooth SIG.
+
+DeepLight can help customers to register Bluetooth SIG member.
+
+(2)Testing product.
+
+if it is a end product, generally needs to testing RF + profile(like A2DP\HFP\HSP\AVRCP\OPP\FTP).Single mode testing BR\EDR RF+profile,dual mode testing BR\EDR+BLE(RF+PHY\RF) +profile.If it is a chip or software,it may need testing protocol(like BB\LMP\L2CAP\LL\SM).
+
+DeepLight has a lot of experience testing all Bluetooth products from end products to chips.
+
+（3）Pay DID fee to Bluetooth SIG.
+
+Adopter member is 8000USD DID,Associate member is 4000USD DID.
+
+(4)Submit Documents to Bluetooth SIG.
+
+Like TPG,test reports,test evidence,test plan。
+
+(5)Finish product listing.
+
+After finish the listing, you can get the BQB certificate,and you can search company name\product name\model name listing in Bluetooth official website.At this time, you can shipping, customs clearance and sell in the market.
+
+DeepLight very good at BQB certification, from certification process to testing profile or RF, more than ten years of testing experience, we can assist customers quickly finish BQB certification.If there is any need,please feel free to contac me.
+
+Email：sin@dlcer.com                  WeChat：dlcert       
+
+Mobile：+86-18038042309              Tel：+86-755-8920 2795              
