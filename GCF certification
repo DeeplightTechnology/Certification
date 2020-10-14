@@ -1,0 +1,16 @@
+GCF认证的类型 Types of GCF certification
+
+
+
+（1）Initial
+Full test against all criteria.
+
+（2）Variant
+Only test impacted part against Initial model.
+
+（3）Certified Module
+Under the optimized scheme, testing focuses on functionality such as antenna, SIM contacts and user-interface that are specifically provided by the connected product rather than its embedded module.
+
+（4）Certified Platform
+GCF Platform Certification enables designers and manufacturers to develop innovative new connected products around pre-certified mobile communications functionality. 
+This use of previously certified functional blocks, or “platforms”, allows the testing phase of product development to be more focused and cuts the total cost of obtaining GCF Certification for new connected products.
