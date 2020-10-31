@@ -1,0 +1,42 @@
+Bluetooth BQB certification is a routine projects now. Most of Bluetooth BQB certification are end product certification. For many end product BQB certifications, only the lowest layer RF testing +top layer application profiles testing are required, which is easy to testing.
+
+       So, who will test the Buetooth protocol stack layer? Generally,Bluetooth chip companies\Bluetooth solution companies\Bluetooth protocol stack software development companies need testing Buetooth protocol stack layer.
+
+Deeplight Technology has a case which Bluetooth product need testing profile and RF to protocol.
+
+At present, the Deeplight Technology has begun to carry out the Bluetooth protocol stack BQB certification testing, which includes all the protocol layer testing such as BLE 2M rate\coded\stable modulation index\AoA\AoD\BLE audio…
+
+The Bluetooth BQB certification testing has the following layers according to the Bluetooth SIG:
+
+
+
+Post image
+      (1) The lowest Bluetooth physical layer:RF, RF-PHY.
+
+      (2) Intermediate protocol stack layer: BB, LL, LMP, L2CAP, HCI, SDP, GAP, SM, GATT, ATT, etc.
+
+      (3) The top layer application profiles: such as A2DP, HFP, HSP, AVRCP, GAVDP, OPP, FTP, HID, etc.
+
+A end Bluetooth product contains controller part and host part. The controller part contains radio frequency and controller protocol, and the host part contains host protocol and profile part. The Bluetooth BQB certification types that can be selected End Product or Component or Subsystem (Host\controller\profile these 3 types), you can choose Bluetooth BQB certification type according to your needs.
+
+In terms of testing, RF testing can be done by RF testing systems, and the host part can also be tested by PTS. But for the controller protocol part, currently only the sniffer Bluetooth Protocol Analyzers EBQ can meet all the testing cases requirements.
+
+Through the Bluetooth Protocol Analyzers EBQ protocol analysis and packet capture and decoding tool, the communication data of 79 BR/EDR channels and 40 BLE can be captured at real time, and all the Bluetooth protocol analysis processing can be displayed, which can quickly solve the BUG that appears.
+
+
+
+Post image
+Bluetooth Controller protocol includes Baseband of classic Bluetooth, Link Management Protocol, Link Layer of BLE, and HCI layer. Generally, when the Bluetooth chip is certified, it will testing the controller protocol part for the end product can combination pass the BQB certification. If the end product needs to be certified and lacks the necessary protocol layer, as a result, the end product unable to be certified, or the protocol tests need to be completed, which is a huge overhead in the time and cost.      
+
+       To testing the Controller protocol, the customer needs to provide ICS to confirm the specific testing cases, and need to provide a sample that supports standard serial communication, either conduction test or radiation test.
+
+
+
+Post image
+Sniffer Bluetooth Protocol Analyzers support USB HCI, UART capture, HCI and SPI HCI. All HCI traffic is captured and displayed in highly optimized analysis software. HCI capture is also a very convenient function. Using devices that realize safe and simple pairing, any link key exchanged and used by HCI can decrypt wireless traffic without any user interaction.
+
+        From Bluetooth end product BQB certification to Bluetooth protocol stack BQB certification, the test cases are larger and the testing requirements are more. Deeplight Technology has sufficient experience to help customers complete complex Bluetooth protocol stack BQB certification, Bluetooth chip BQB certification, Bluetooth module BQB certification, of course including simpler Bluetooth end product BQB certification. Welcome customers to consult us for ALL Bluetooth BQB certification.
+
+Email: sin@dlcer.com        WeChat：dlcert
+
+Mobile：+86-18038042309     Tel：+86-755-8920 2795
