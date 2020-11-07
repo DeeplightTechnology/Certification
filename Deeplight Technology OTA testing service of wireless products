@@ -1,0 +1,54 @@
+1.There are two methods to test the radiation performance of wireless product.
+
+(1)PASSIVE test:
+
+Test the product antenna's radiation performance,passive testing focuses on product antenna's radiation performance from the antenna's gain, efficiency, pattern and other antenna radiation parameters. Commonly used test cases are:
+
+Return Loss; Directivity; Gain, dBi or dBd.
+
+Efficiency; Radiation Pattern (direction diagram).
+
+Effective Isotropic Radiated Power (Gain + Transmit Power).
+
+Input Impedance (antenna interface impedance test).
+
+VSWR, RL (antenna standing wave ratio, return loss test); 3D (3D field strength map).
+
+3dB BW, FB Ratio (beam width, front-to-back ratio).
+
+Cross polar, Isolation (cross polarization ratio, isolation).
+
+Directivity; Efficiency.
+
+(2)ACTIVE test:
+
+In the microwave anechoic chamber,testing of the radiated power and receiving sensitivity of the product,namely TRP and TIS. This method can better reflect the overall radiation performance of the product Wireless performance. OTA active test cases:
+
+TRP (total radiated power); TIS (Total Isotropic Sensitivity); RS (receiving sensitivity determination relative to the reference channel)
+
+SS (sensitivity scan); EIRP (equivalent isotropic radiated power); EIS (equivalent omnidirectional receiving sensitivity)
+
+2. TRP (total radiated power) and TIS (Total Isotropic Sensitivity) test methods and requirements.
+
+(1)TRP test requirements
+
+EUT is transmitting at maximum power;
+Non-portable EUT needs to be tested in free space;
+
+Portable EUT test under the condition of human head model;
+
+4) In each frequency band supported by EUT, test the three channels of high, middle and low;
+
+5) For the EUT of the retractable antenna, it needs to be tested separately under two conditions.
+
+3.Which organizations develop OTA test standards?
+
+(1)PTCRB PCS Type Certification Review Board
+
+(2)CTIA The Wireless Association
+
+(3)3GPP The 3rd Generation Partnership Project
+
+Welcome to contact Deeplight info@dlcer.com for wireless product OTA testing. Our experienced team of engineers can also assist customers completing RF testing\EMC testing, etc.
+
+Email: jl@dlcer.comWeChat:dlcert        Mobile:+86-18038042309     Tel:+86-755-8920 2795
