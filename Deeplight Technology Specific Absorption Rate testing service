@@ -1,0 +1,42 @@
+Brief introduction of SAR
+
+       The electromagnetic radiation of mobile phones and other wireless products has always been a matter of close concern to the public. What is the measure of this radiation? There is a term here called SAR. The full name of SAR is Specific Absorption Rate. It is the electromagnetic wave energy absorption ratio of mobile phones or wireless products. The meaning of SAR is the electromagnetic power absorbed or consumed per unit mass of human tissue, in W/kg.
+
+Basic requirements of SAR testing
+
+     1. The ambient temperature is between 18°C and 25°C, and the liquid temperature change during the measurement process cannot exceed ±2°C.
+     2. The environmental electromagnetic noise cannot exceed 0.012W/Kg.
+     3. The tested wireless communication device cannot be connected to the local public communication network.
+     4. The influence of reflection and auxiliary RF transmitter should be less than 3% of the measured SAR value.
+
+Basic preparation for SAR test
+
+   (1) The dielectric properties of the tissue fluid must be measured before the SAR test. When measuring the dielectric properties, the temperature of the tissue fluid should be the same as in the SAR measurement process, and the temperature change should not exceed ±2℃.
+
+  (2) Tissue fluid calibration (to ensure that the measured two dielectric parameters are within ±5% of the target value in Table 1).
+
+  (3) For the horizontally arranged human body model, the depth of the tissue fluid into it should be at least 15 cm above the ERP, and there should be no air bubbles.
+
+Preparation of the wireless device to be tested
+
+  (1) The transmitter, antenna, battery, and accessories inside the wireless device under test should be specified by the manufacturer. The battery should be fully charged before the measurement, and there should be no other external cable links during the measurement.
+  (2) The base station controls the output power and operating frequency of the equipment, and the wireless equipment should be set to transmit at the highest power level.
+  (3) The prototype used in the test must be confirmed to have exactly the same mechanical and electrical characteristics as its commercial version.
+  
+Points to note before testing SAR
+
+  (1) Antennas. At this stage, the mobile phone antennas are mainly Monopole and PIFA antennas. Both antennas have their own characteristics. Therefore, you should have a certain understanding of the two antennas before using them. The antenna placement, materials, and directivity are controlled to meet the requirements of SAR.
+  (2) Power. If the antenna and PCB board are inconvenient when the product is formed, we need to adjust the power of the mobile phone to reduce the SAR value. Especially when testing GPRS, due to multiple uplink channels, if the power is not adjusted, the SAR is easily exceeded.
+
+Deeplight Technology Advantages：
+
+（1）We more than ten years of experience in handling PTCRB\GCF\JATE\BQB\Telec\JATE\LoRa\FCC\SAR\RF\OTA\EMC...product certification and testing, and the engineering project team can professional and quickly deal with such projects.
+（2）DeepLight has helped many listed companies successfully complete certification.
+（3）Our quotation will be preferential.
+（4）Our professional engineering project team can provide nanny service and effective communication.
+（5）Feedback the testing process in time to let customers know the progress of the project, and is critical path to hold the project progress well.
+
+Our skilled engineering project team can provide the recommending measures for test fail. 
+Please to send product manual and product specifications to us，ask for a quote，we will reply the quotation within 1-2 days.Look forward to our cooperation.
+
+Email：jl@dlcer.com     WeChat：lay999      Mobile：+86-13266518903     Tel：+86-755-8920 2795
